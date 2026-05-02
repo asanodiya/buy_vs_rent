@@ -57,7 +57,7 @@ The model uses the following inputs:
 ```
 project/
 │
-├── app.py                # FastAPI backend
+├── main.py                # FastAPI backend
 ├── streamlit_app.py      # Streamlit frontend
 ├── train_model.py        # Model training script
 ├── model.pkl             # Saved model
