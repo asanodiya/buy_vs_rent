@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(page_title="Buy vs Rent", page_icon="🏠")
 
-st.title("🏠 Buy vs Rent Predictor By Avi")
+st.title("🏠 Buy vs Rent Predictor By avadhesh")
 
 st.write("Enter your details:")
 
